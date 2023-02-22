@@ -1,6 +1,6 @@
 package org.example;
 
-class Main {
+class Maintest {
     public static void main(String[] args) {
         Car car1 = new Car();
         car1.max_speed = 100;
